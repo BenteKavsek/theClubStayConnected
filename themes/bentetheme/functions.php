@@ -1,6 +1,6 @@
 <?php
 
-function m8prog_enqueue_styles() {
+function bentetheme_enqueue_styles() {
 	wp_enqueue_style(
 		'bentetheme-style',
 		get_stylesheet_uri()

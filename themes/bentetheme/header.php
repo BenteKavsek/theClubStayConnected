@@ -17,11 +17,11 @@
 
 <nav class="header__nav">
 	<ul class="header__nav__list">
-		<li class="heacer__nav__item">Home</li>
-		<li class="heacer__nav__item">Over</li>
-		<li class="heacer__nav__item">Foto's</li>
-		<li class="heacer__nav__item">Events</li>
-        <li class="heacer__nav__item">Contact</li>
+		<li class="header__nav__item">Home</li>
+		<li class="header__nav__item">Over</li>
+		<li class="header__nav__item">Foto's</li>
+		<li class="header__nav__item">Events</li>
+        <li class="header__nav__item">Contact</li>
     </ul>
 </nav>
 <main>
