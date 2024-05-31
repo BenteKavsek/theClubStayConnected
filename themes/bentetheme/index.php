@@ -2,8 +2,6 @@
 
 get_header();
 
-print_r( the_title() );
-
 if ( have_posts() ) :
 
 	// Loop trough the posts
@@ -21,7 +19,7 @@ if ( have_posts() ) :
 	endwhile;
 
 else: 
-    echo 'BITCH DIT BESTAAT NIET, U STUPID';
+    echo 'BITCH DIT BESTAAT NIET';
 endif;
 
 get_footer();
